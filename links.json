@@ -1,0 +1,32 @@
+{
+  "FB": {
+    "link": "http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=FB"
+  },
+  "AMZN": {
+    "link": "http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=AMZN"
+  },
+  "AAPL": {
+    "link": "http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=AAPL"
+  },
+  "NFLX": {
+    "link": "http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=NFLX"
+  },
+  "TSLA": {
+    "link": "http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=TSLA"
+  },
+  "CSCO": {
+    "link": "http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=CSCO"
+  },
+  "GOOGL": {
+    "link": "http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=GOOGL"
+  },
+  "BIDU": {
+    "link": "http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=BIDU"
+  },
+  "BABA": {
+    "link": "http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=BABA"
+  },
+   "TCEHY": {
+    "link": "http://articlefeeds.nasdaq.com/nasdaq/symbols?symbol=TCEHY"
+  }
+}

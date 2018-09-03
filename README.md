@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Sep  4 00:02:04 2018
+
+@author: ma
+"""
+
 # curated-news-feed
 
 Input : RSS feed links - we can add additional feed links in json file
